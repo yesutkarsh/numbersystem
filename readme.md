@@ -1,4 +1,4 @@
-<!-- Description -->
+Description
 
 ## Index.js
 ### Consoles log Even and Odd Number
@@ -28,8 +28,8 @@ consoles log the min max and sum of prime numbers~
 
 
 
-<!-- expected output of index.js
- -->
+## expected output of index.js
+ 
  [
   2, 20, 14, 12,  8,
   6,  4, 10, 16, 18
@@ -38,7 +38,7 @@ consoles log the min max and sum of prime numbers~
   1, 11, 19, 17, 13
 ]
 
-<!-- expected output of app.js
+## expected output of app.js
 
 [
    2,  5, 11, 13, 17,
